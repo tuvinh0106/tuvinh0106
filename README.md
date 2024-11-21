@@ -27,7 +27,7 @@
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="32" alt="Ansible" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" height="32" alt="Google Cloud" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="32" alt="Amazon AWS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px"></div> <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" height="32" alt="Golang" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="32" alt="Ansible" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" height="32" alt="Golang" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
@@ -40,7 +40,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuvinh0106&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-<a href="https://app.daily.dev/tuvinh0106"><img src="" width="652" alt="Nguyen Vo Duy Tu Vinh"/></a>
+<! -- <a href="https://app.daily.dev/tuvinh0106"><img src="" width="652" alt="Nguyen Vo Duy Tu Vinh"/></a> -->
 
 
  **<h3 align="left">Support Me</h3>**
